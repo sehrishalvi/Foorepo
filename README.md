@@ -1,2 +1,0 @@
-# Foorepo
-Created with CodeSandbox
